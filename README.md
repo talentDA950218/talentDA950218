@@ -108,3 +108,21 @@
 ## Projects
 
 ...
+<!-- SVGs -->
+[star]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg
+[fork]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg
+
+## <img alt="emoji" src="https://octicons.talentDA950218.ch/mark-github/c9d1d9" height="30em"> Hello there!
+My name is Andreas but most people just call me Andre.  
+On the internet am I known as either talentDA950218. My tag on Discord is `dad950218`.
+
+I'm a skilled full stack AI engineer who creates a lot of various projects here on GitHub from which some are more popular than others.  
+
+If you have any questions, feel free to reach me out. I'm pretty much always around and have time to answer stuff.
+
+## <img alt="emoji" src="https://octicons.talentDA950218.ch/graph/c9d1d9" height="30em"> Statistics
+<img src="https://github.com/talentDA950218/talentDA950218/blob/master/.cache/stats-base.svg">
+
+<img src="https://github.com/talentDA950218/talentDA950218/blob/master/.cache/stats-commits-iso.svg">
+
+<img src="https://github.com/talentDA950218/talentDA950218/blob/master/.cache/stats-issues-prs.svg">
