@@ -101,8 +101,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-stats-on-readme.vercel.app/api?username=talentDA950218&theme=buefy&raw_cache=no-store"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=talentDA950218&repo=github-readme-stats&theme=buefy" />
+  <img src="https://github-stats-on-readme.vercel.app/api?username=talentDA950218&theme=buefy&raw_cache=no-store&include_all_commits=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=talentDA950218&repo=github-readme-stats&theme=buefy&include_all_commits=true" />
   <img src="https://github-stats-on-readme.vercel.app/api/top-langs?username=talentDA950218&raw_cache=no-store&size_weight=0&count_weight=1&theme=buefy&layout=compact&langs_count=8&hide=MDX,shell,Dockerfile,Vue,Blade,PHP,SCSS,Makefile,Less,Kotlin,Objective%2DC,Objective%2DC%2B%2B"/>
 </p>
 
