@@ -101,28 +101,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-stats-on-readme.vercel.app/api?username=talentDA950218&theme=buefy&raw_cache=no-store"/>
+<!--   <img src="https://github-stats-on-readme.vercel.app/api?username=talentDA950218&theme=buefy&raw_cache=no-store"/> -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=talentDA950218&repo=github-readme-stats&theme=buefy" />
   <img src="https://github-stats-on-readme.vercel.app/api/top-langs?username=talentDA950218&raw_cache=no-store&size_weight=0&count_weight=1&theme=buefy&layout=compact&langs_count=8&hide=MDX,shell,Dockerfile,Vue,Blade,PHP,SCSS,Makefile,Less,Kotlin,Objective%2DC,Objective%2DC%2B%2B"/>
 </p>
 
 ## Projects
 
 ...
-<!-- SVGs -->
-[star]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg
-[fork]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg
-
-## <img alt="emoji" src="https://octicons.talentDA950218.ch/mark-github/c9d1d9" height="30em"> Hello there!
-My name is Andreas but most people just call me Andre.  
-On the internet am I known as either talentDA950218. My tag on Discord is `dad950218`.
-
-I'm a skilled full stack AI engineer who creates a lot of various projects here on GitHub from which some are more popular than others.  
-
-If you have any questions, feel free to reach me out. I'm pretty much always around and have time to answer stuff.
-
-## <img alt="emoji" src="https://octicons.talentDA950218.ch/graph/c9d1d9" height="30em"> Statistics
-<img src="https://github.com/talentDA950218/talentDA950218/blob/master/.cache/stats-base.svg">
-
-<img src="https://github.com/talentDA950218/talentDA950218/blob/master/.cache/stats-commits-iso.svg">
-
-<img src="https://github.com/talentDA950218/talentDA950218/blob/master/.cache/stats-issues-prs.svg">
