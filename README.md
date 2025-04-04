@@ -1,4 +1,4 @@
-# Skilled full stack web3 engineer
+# Sr. Full Stack AI Engineer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talentDA950218&label=Profile%20views&color=0e75b6&style=flat?" alt="talentDA950218" /> </p>
 
