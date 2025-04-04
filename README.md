@@ -102,13 +102,8 @@
 
 <p align="center">
   <img src="https://github-stats-on-readme.vercel.app/api?username=talentDA950218&theme=buefy&raw_cache=no-store&include_all_commits=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/?username=talentDA950218&repo=github-readme-stats&theme=buefy&include_all_commits=true" />
-  <img src="https://github-stats-on-readme.vercel.app/api/top-langs?username=talentDA950218&raw_cache=no-store&size_weight=0&count_weight=1&theme=buefy&layout=compact&langs_count=8&hide=MDX,shell,Dockerfile,Vue,Blade,PHP,SCSS,Makefile,Less,Kotlin,Objective%2DC,Objective%2DC%2B%2B"/>
+  <img src="https://github-stats-on-readme.vercel.app/api/top-langs?username=talentDA950218&raw_cache=no-store&size_weight=0&count_weight=1&theme=buefy&layout=compact&langs_count=8&hide=MDX,shell,Dockerfile,Makefile,Less,Objective%2DC,Objective%2DC%2B%2B"/>
 </p>
-
- [![talentDA's github stats](https://github-readme-stats.vercel.app/api?username=talentDA950218&show_icons=true&include_all_commits=true)](https://github.com/talentDA950218)  
-  [![talentda's github stats](https://github-readme-stats.vercel.app/api?username=talentda950218&show_icons=true&include_all_commits=true)](https://github.com/talentda950218)  
-  [![crypto-artisan's github stats](https://github-readme-stats.vercel.app/api?username=crypto-artisan&show_icons=true&include_all_commits=true)](https://github.com/crypto-artisan)  
 
 ## Projects
 
