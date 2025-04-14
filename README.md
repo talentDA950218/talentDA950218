@@ -91,8 +91,8 @@ Built an end-to-end document processing solution using computer vision and NLP t
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/api?username=talentDA950218&show_icons=true&theme=dark&count_private=true&hide=issues&raw_cache=no-store"/>
-  <img src="https://github-readme-activity-graph.vercel.app/api/top-langs/?username=talentDA950218&layout=compact&theme=dark&langs_count=8&hide=html,css&raw_cache=no-store"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=talentDA950218&show_icons=true&theme=dark&count_private=true&hide=issues&raw_cache=no-store"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=talentDA950218&raw_cache=no-store&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  width="49%" alt="@talentDA950218's github-readme-streak-stats"/>
 </p>
 
 ## 📫 Connect With Me
