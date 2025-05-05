@@ -98,14 +98,3 @@ Built an end-to-end document processing solution using computer vision and NLP t
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=talentDA950218&raw_cache=no-store&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  width="49%" alt="@talentDA950218's github-readme-streak-stats"/>
   </a>
 </p>
-
-## 📫 Connect With Me
-
-<p>
-<a href="https://www.linkedin.com/in/john-zulhelmi-222b4a337" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/JohnZulhelmi" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="mailto:johnzulhelmi950218@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://t.me/JohnDAT0218" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://discord.com/users/dad950218" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://wa.me/17164268176" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-</p>
